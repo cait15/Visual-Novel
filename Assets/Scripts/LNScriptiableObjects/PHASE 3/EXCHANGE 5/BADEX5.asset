@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab663d778be4034d93ed1e8fa0addaa, type: 3}
+  m_Name: BADEX5
+  m_EditorClassIdentifier: 
+  choiceText: "\"This company has already suffered reputationally. It\u2019s time
+    to stop the bleeding and let it heal.\""
+  damageToPlayer: 15
+  damageToEnemy: 0
+  nextNode: {fileID: 11400000, guid: 48eea1d995710854b8211c9be89026b9, type: 2}

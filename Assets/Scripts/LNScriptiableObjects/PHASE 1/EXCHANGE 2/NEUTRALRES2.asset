@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8a17f1cae892f42bdac180ebb34c70, type: 3}
+  m_Name: NEUTRALRES2
+  m_EditorClassIdentifier: 
+  dialogueText: "\"Reviewed. Not resolved. That\u2019s how injustice stays clean,
+    on paper, while the people it affects are left dirty.\""
+  name: Lucas
+  choices: []
+  nextDefaultNode: {fileID: 11400000, guid: 6b01bbd7ef421f240b3ec596618ae135, type: 2}
+  animatedSprites:
+  - {fileID: 3525986675749317651, guid: d069c579fc6edba499d16e7500423b6e, type: 3}
+  - {fileID: -5639593803007381442, guid: 44d5b55b27b03ea439c3fb9119ee36c0, type: 3}
+  isThisJudgeDialogue: 0
+  isReactionDialogue: 0
+  animationSpeed: 0.7

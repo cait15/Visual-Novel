@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: 0462d7dcf03922940a5037c1de4ca1e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 927780937661308337
+    second: Glossy Red Dice Rolls_0
+  - first:
+      213: -5052555175492010407
+    second: Glossy Red Dice Rolls_1
+  - first:
+      213: 6243894076710234175
+    second: Glossy Red Dice Rolls_2
+  - first:
+      213: -1199753117449759641
+    second: Glossy Red Dice Rolls_3
+  - first:
+      213: -8980635973632565900
+    second: Glossy Red Dice Rolls_4
+  - first:
+      213: 7926857085782140880
+    second: Glossy Red Dice Rolls_5
+  - first:
+      213: -3726029759569684143
+    second: Glossy Red Dice Rolls_6
+  - first:
+      213: 746768655058240480
+    second: Glossy Red Dice Rolls_7
+  - first:
+      213: 5768318932419693754
+    second: Glossy Red Dice Rolls_8
+  - first:
+      213: -3061283186085864698
+    second: Glossy Red Dice Rolls_9
+  - first:
+      213: 3559230600235038224
+    second: Glossy Red Dice Rolls_10
+  - first:
+      213: -8205174027996157230
+    second: Glossy Red Dice Rolls_11
+  - first:
+      213: -2631502631811229489
+    second: Glossy Red Dice Rolls_12
+  - first:
+      213: 6844976846308513876
+    second: Glossy Red Dice Rolls_13
+  - first:
+      213: -1212465546429612590
+    second: Glossy Red Dice Rolls_14
+  - first:
+      213: -331182195418793994
+    second: Glossy Red Dice Rolls_15
+  - first:
+      213: -5966567557757853445
+    second: Glossy Red Dice Rolls_16
+  - first:
+      213: 3128658979205009053
+    second: Glossy Red Dice Rolls_17
+  - first:
+      213: 795914811048632398
+    second: Glossy Red Dice Rolls_18
+  - first:
+      213: 7990188540745405516
+    second: Glossy Red Dice Rolls_19
+  - first:
+      213: -5782350315499888786
+    second: Glossy Red Dice Rolls_20
+  - first:
+      213: 5019674986371283152
+    second: Glossy Red Dice Rolls_21
+  - first:
+      213: -9192398594984052833
+    second: Glossy Red Dice Rolls_22
+  - first:
+      213: 70818337663616896
+    second: Glossy Red Dice Rolls_23
+  - first:
+      213: 1482591213010135914
+    second: Glossy Red Dice Rolls_24
+  - first:
+      213: 5664013378844474332
+    second: Glossy Red Dice Rolls_25
+  - first:
+      213: 417330923782390780
+    second: Glossy Red Dice Rolls_26
+  - first:
+      213: -1973010448823380633
+    second: Glossy Red Dice Rolls_27
+  - first:
+      213: -5585060461618001260
+    second: Glossy Red Dice Rolls_28
+  - first:
+      213: -984903792222404417
+    second: Glossy Red Dice Rolls_29
+  - first:
+      213: 527750434462608849
+    second: Glossy Red Dice Rolls_30
+  - first:
+      213: -7510677358177541743
+    second: Glossy Red Dice Rolls_31
+  - first:
+      213: 3973087859666594762
+    second: Glossy Red Dice Rolls_32
+  - first:
+      213: 636471188987853807
+    second: Glossy Red Dice Rolls_33
+  - first:
+      213: 4864950477488693551
+    second: Glossy Red Dice Rolls_34
+  - first:
+      213: -6495109261744242438
+    second: Glossy Red Dice Rolls_35
+  - first:
+      213: -3798599782641115410
+    second: Glossy Red Dice Rolls_36
+  - first:
+      213: 1170643064254483821
+    second: Glossy Red Dice Rolls_37
+  - first:
+      213: -9142245643048955449
+    second: Glossy Red Dice Rolls_38
+  - first:
+      213: -8460722397384240632
+    second: Glossy Red Dice Rolls_39
+  - first:
+      213: 5187071756803452374
+    second: Glossy Red Dice Rolls_40
+  - first:
+      213: -2059141849935753348
+    second: Glossy Red Dice Rolls_41
+  - first:
+      213: 7560060397173107736
+    second: Glossy Red Dice Rolls_42
+  - first:
+      213: 5395288315729043594
+    second: Glossy Red Dice Rolls_43
+  - first:
+      213: 4044796471933903862
+    second: Glossy Red Dice Rolls_44
+  - first:
+      213: -3332002624357562897
+    second: Glossy Red Dice Rolls_45
+  - first:
+      213: -942886540874791086
+    second: Glossy Red Dice Rolls_46
+  - first:
+      213: 5306359376272156446
+    second: Glossy Red Dice Rolls_47
+  - first:
+      213: 5524916886377634657
+    second: Glossy Red Dice Rolls_48
+  - first:
+      213: 3320077424317715095
+    second: Glossy Red Dice Rolls_49
+  - first:
+      213: 1507083772268471360
+    second: Glossy Red Dice Rolls_50
+  - first:
+      213: 2183277069986488552
+    second: Glossy Red Dice Rolls_51
+  - first:
+      213: 2426394113922994137
+    second: Glossy Red Dice Rolls_52
+  - first:
+      213: 474399397537348509
+    second: Glossy Red Dice Rolls_53
+  - first:
+      213: -224175577122287224
+    second: Glossy Red Dice Rolls_54
+  - first:
+      213: 5185974112674851759
+    second: Glossy Red Dice Rolls_55
+  - first:
+      213: 6566585167676480913
+    second: Glossy Red Dice Rolls_56
+  - first:
+      213: 2622905460368040790
+    second: Glossy Red Dice Rolls_57
+  - first:
+      213: -2914534039764352878
+    second: Glossy Red Dice Rolls_58
+  - first:
+      213: -5963056815134938411
+    second: Glossy Red Dice Rolls_59
+  - first:
+      213: -5947544880770652450
+    second: Glossy Red Dice Rolls_60
+  - first:
+      213: -2428419222996569084
+    second: Glossy Red Dice Rolls_61
+  - first:
+      213: -6649404973000339398
+    second: Glossy Red Dice Rolls_62
+  - first:
+      213: -327983091478202904
+    second: Glossy Red Dice Rolls_63
+  - first:
+      213: 4001468687654695223
+    second: Glossy Red Dice Rolls_64
+  - first:
+      213: 2507259215981710943
+    second: Glossy Red Dice Rolls_65
+  - first:
+      213: 5015237634623235858
+    second: Glossy Red Dice Rolls_66
+  - first:
+      213: 3999964309963866412
+    second: Glossy Red Dice Rolls_67
+  - first:
+      213: 4849391074435873028
+    second: Glossy Red Dice Rolls_68
+  - first:
+      213: -6015252902061432076
+    second: Glossy Red Dice Rolls_69
+  - first:
+      213: -6246870446822530451
+    second: Glossy Red Dice Rolls_70
+  - first:
+      213: -2027510404138565979
+    second: Glossy Red Dice Rolls_71
+  - first:
+      213: 6843198014694100761
+    second: Glossy Red Dice Rolls_72
+  - first:
+      213: 1849784155938401621
+    second: Glossy Red Dice Rolls_73
+  - first:
+      213: 1675927382380447492
+    second: Glossy Red Dice Rolls_74
+  - first:
+      213: 6301041569773807013
+    second: Glossy Red Dice Rolls_75
+  - first:
+      213: 3470239627060856533
+    second: Glossy Red Dice Rolls_76
+  - first:
+      213: -3884223183852434354
+    second: Glossy Red Dice Rolls_77
+  - first:
+      213: 5415434870638149189
+    second: Glossy Red Dice Rolls_78
+  - first:
+      213: -473547457804362255
+    second: Glossy Red Dice Rolls_79
+  - first:
+      213: 6347023624447651653
+    second: Glossy Red Dice Rolls_80
+  - first:
+      213: -5417705354166324753
+    second: Glossy Red Dice Rolls_81
+  - first:
+      213: 1915223634476736915
+    second: Glossy Red Dice Rolls_82
+  - first:
+      213: -8368613653295052532
+    second: Glossy Red Dice Rolls_83
+  - first:
+      213: -8819577147128250525
+    second: Glossy Red Dice Rolls_84
+  - first:
+      213: 2285428013336461242
+    second: Glossy Red Dice Rolls_85
+  - first:
+      213: -1351853429777864249
+    second: Glossy Red Dice Rolls_86
+  - first:
+      213: 651800957876954558
+    second: Glossy Red Dice Rolls_87
+  - first:
+      213: -2166197006623879297
+    second: Glossy Red Dice Rolls_88
+  - first:
+      213: -3827293443562536231
+    second: Glossy Red Dice Rolls_89
+  - first:
+      213: 2766469925496018911
+    second: Glossy Red Dice Rolls_90
+  - first:
+      213: -5516244368356889418
+    second: Glossy Red Dice Rolls_91
+  - first:
+      213: 1860897821629020627
+    second: Glossy Red Dice Rolls_92
+  - first:
+      213: 9200522246567566882
+    second: Glossy Red Dice Rolls_93
+  - first:
+      213: 6151611625811621406
+    second: Glossy Red Dice Rolls_94
+  - first:
+      213: -6138330922811316704
+    second: Glossy Red Dice Rolls_95
+  - first:
+      213: -7513488623788980637
+    second: Glossy Red Dice Rolls_96
+  - first:
+      213: -529713861407344664
+    second: Glossy Red Dice Rolls_97
+  - first:
+      213: 5940442901220771276
+    second: Glossy Red Dice Rolls_98
+  - first:
+      213: 265295230909734242
+    second: Glossy Red Dice Rolls_99
+  - first:
+      213: -7715412474844545012
+    second: Glossy Red Dice Rolls_100
+  - first:
+      213: -5999278245313771028
+    second: Glossy Red Dice Rolls_101
+  - first:
+      213: 3397458632183409192
+    second: Glossy Red Dice Rolls_102
+  - first:
+      213: 2531578219505865639
+    second: Glossy Red Dice Rolls_103
+  - first:
+      213: -2783426674584057830
+    second: Glossy Red Dice Rolls_104
+  - first:
+      213: 8842373785712074157
+    second: Glossy Red Dice Rolls_105
+  - first:
+      213: -3110463662831239544
+    second: Glossy Red Dice Rolls_106
+  - first:
+      213: 1271326639594578413
+    second: Glossy Red Dice Rolls_107
+  - first:
+      213: -2118428676279773213
+    second: Glossy Red Dice Rolls_108
+  - first:
+      213: 7258355210048929922
+    second: Glossy Red Dice Rolls_109
+  - first:
+      213: 7634146454696404321
+    second: Glossy Red Dice Rolls_110
+  - first:
+      213: -3558486235917109993
+    second: Glossy Red Dice Rolls_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1911
+        width: 227
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5ea2e8d320ec00800000000000000
+      internalID: 927780937661308337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1911
+        width: 180
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ebcb466d7b1e9b0800000000000000
+      internalID: -5052555175492010407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1905
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38aa79c494c6a650800000000000000
+      internalID: 6243894076710234175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1909
+        width: 226
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7645d3075ee995fe0800000000000000
+      internalID: -1199753117449759641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1901
+        width: 193
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d5986d92f5e5380800000000000000
+      internalID: -8980635973632565900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_5
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1909
+        width: 216
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7255f658ad10e60800000000000000
+      internalID: 7926857085782140880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1909
+        width: 222
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159905eccab7a4cc0800000000000000
+      internalID: -3726029759569684143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_7
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1909
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3842e922e0d5a00800000000000000
+      internalID: 746768655058240480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_8
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1909
+        width: 229
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4906d18f2d0050800000000000000
+      internalID: 5768318932419693754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_9
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1909
+        width: 215
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bd97069232485d0800000000000000
+      internalID: -3061283186085864698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_10
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1909
+        width: 178
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b5b09f5de46130800000000000000
+      internalID: 3559230600235038224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_11
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1909
+        width: 225
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da2705c1bd512e80800000000000000
+      internalID: -8205174027996157230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_12
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1909
+        width: 207
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d2657c460b7bd0800000000000000
+      internalID: -2631502631811229489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_13
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1907
+        width: 190
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4581efbec2e3efe50800000000000000
+      internalID: 6844976846308513876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_14
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1907
+        width: 227
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb9aa62057c2fe0800000000000000
+      internalID: -1212465546429612590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_15
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1901
+        width: 221
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f0264c87676bf0800000000000000
+      internalID: -331182195418793994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1669
+        width: 208
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0297f1b6e723da0800000000000000
+      internalID: -5966567557757853445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1659
+        width: 199
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec9d6e3ca3b6b20800000000000000
+      internalID: 3128658979205009053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1658
+        width: 221
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a600cd48ab0b00800000000000000
+      internalID: 795914811048632398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1658
+        width: 189
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d68bd42ad2ee60800000000000000
+      internalID: 7990188540745405516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_20
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1665
+        width: 161
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fd2c53607f0cfa0800000000000000
+      internalID: -5782350315499888786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_21
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1673
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f2920ec779a540800000000000000
+      internalID: 5019674986371283152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1671
+        width: 202
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97fc286e2a0e6080800000000000000
+      internalID: -9192398594984052833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1667
+        width: 209
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087060427e89bf000800000000000000
+      internalID: 70818337663616896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_24
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1659
+        width: 221
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ba5966ad8339410800000000000000
+      internalID: 1482591213010135914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_25
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1663
+        width: 184
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbb519a82e9a9e40800000000000000
+      internalID: 5664013378844474332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_26
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1656
+        width: 180
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c5d99348aac500800000000000000
+      internalID: 417330923782390780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_27
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1652
+        width: 193
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659fb343757e94e0800000000000000
+      internalID: -1973010448823380633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_28
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1650
+        width: 204
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a0e20e911ed72b0800000000000000
+      internalID: -5585060461618001260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_29
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1648
+        width: 213
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb006ae183be452f0800000000000000
+      internalID: -984903792222404417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_30
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1650
+        width: 195
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda3385932f25700800000000000000
+      internalID: 527750434462608849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_31
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1650
+        width: 188
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191224b6cb6b4c790800000000000000
+      internalID: -7510677358177541743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1416
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb28d8ab5e332730800000000000000
+      internalID: 3973087859666594762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1399
+        width: 201
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb34699c2335d800800000000000000
+      internalID: 636471188987853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1399
+        width: 215
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a4940fa6c38340800000000000000
+      internalID: 4864950477488693551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_35
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1399
+        width: 187
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0826cf98cbcd5a0800000000000000
+      internalID: -6495109261744242438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1404
+        width: 153
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedccf9f99a84bc0800000000000000
+      internalID: -3798599782641115410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_37
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1416
+        width: 167
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dc9a32aa5fe3010800000000000000
+      internalID: 1170643064254483821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_38
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1416
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c154bc7608302180800000000000000
+      internalID: -9142245643048955449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_39
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1403
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80298b07ec9759a80800000000000000
+      internalID: -8460722397384240632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_40
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1401
+        width: 221
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd2bb0d74e2cf740800000000000000
+      internalID: 5187071756803452374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_41
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1403
+        width: 180
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f4074b5657c63e0800000000000000
+      internalID: -2059141849935753348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_42
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1399
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c600650eabae860800000000000000
+      internalID: 7560060397173107736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_43
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1395
+        width: 191
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8068df332aefda40800000000000000
+      internalID: 5395288315729043594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_44
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1393
+        width: 200
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3af5206f0022830800000000000000
+      internalID: 4044796471933903862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_45
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1391
+        width: 213
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58f70544952c1d0800000000000000
+      internalID: -3332002624357562897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_46
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1393
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25749abcfa13ae2f0800000000000000
+      internalID: -942886540874791086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_47
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1393
+        width: 188
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17e3490db9f3a940800000000000000
+      internalID: 5306359376272156446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1157
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b981ac2a27cac40800000000000000
+      internalID: 5524916886377634657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1140
+        width: 195
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792504fa3d8431e20800000000000000
+      internalID: 3320077424317715095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1140
+        width: 211
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04461dcb4bc3ae410800000000000000
+      internalID: 1507083772268471360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_51
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1136
+        width: 191
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ecca7dee8c4e10800000000000000
+      internalID: 2183277069986488552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_52
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1146
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8a7d47984ca120800000000000000
+      internalID: 2426394113922994137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_53
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1159
+        width: 158
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7fd31db7659600800000000000000
+      internalID: 474399397537348509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_54
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1153
+        width: 204
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881de46108193ecf0800000000000000
+      internalID: -224175577122287224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1140
+        width: 219
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2b50aaf748f740800000000000000
+      internalID: 5185974112674851759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_56
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1142
+        width: 221
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d94b23b62312b50800000000000000
+      internalID: 6566585167676480913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_57
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1146
+        width: 168
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6536ba49e9e666420800000000000000
+      internalID: 2622905460368040790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_58
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1140
+        width: 174
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cf029bbe7d87d0800000000000000
+      internalID: -2914534039764352878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_59
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1134
+        width: 183
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae8669b67fe3da0800000000000000
+      internalID: -5963056815134938411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_60
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1133
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e8ff3173167da0800000000000000
+      internalID: -5947544880770652450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_61
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1131
+        width: 213
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043f8f35958c4ed0800000000000000
+      internalID: -2428419222996569084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_62
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1134
+        width: 199
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305998386198b3a0800000000000000
+      internalID: -6649404973000339398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_63
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1133
+        width: 186
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57b14bd15c27bf0800000000000000
+      internalID: -327983091478202904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 908
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b18b1292188730800000000000000
+      internalID: 4001468687654695223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 891
+        width: 195
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0a6019f29bc220800000000000000
+      internalID: 2507259215981710943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 889
+        width: 215
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21763eb8e04b99540800000000000000
+      internalID: 5015237634623235858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 887
+        width: 187
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2103a1e85ab28730800000000000000
+      internalID: 3999964309963866412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_68
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 896
+        width: 153
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40933b03d7f7c4340800000000000000
+      internalID: 4849391074435873028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_69
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 908
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ad721b57858ca0800000000000000
+      internalID: -6015252902061432076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_70
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 906
+        width: 206
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62e14b0d68ae49a0800000000000000
+      internalID: -6246870446822530451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_71
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 887
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae79e69706dcd3e0800000000000000
+      internalID: -2027510404138565979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_72
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 893
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0089665ce7fe50800000000000000
+      internalID: 6843198014694100761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_73
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 898
+        width: 164
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55daad5a3e0cba910800000000000000
+      internalID: 1849784155938401621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_74
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 891
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40703282317124710800000000000000
+      internalID: 1675927382380447492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_75
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 887
+        width: 183
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a566516cebc17750800000000000000
+      internalID: 6301041569773807013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_76
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 883
+        width: 200
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d642700e84c82030800000000000000
+      internalID: 3470239627060856533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_77
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 881
+        width: 217
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c83220897781ac0800000000000000
+      internalID: -3884223183852434354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_78
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 885
+        width: 199
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e76a8925d772b40800000000000000
+      internalID: 5415434870638149189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_79
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 887
+        width: 182
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd1849981f9d69f0800000000000000
+      internalID: -473547457804362255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 649
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe634cb58251850800000000000000
+      internalID: 6347023624447651653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 634
+        width: 201
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe13f234fa170d4b0800000000000000
+      internalID: -5417705354166324753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_82
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 632
+        width: 217
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912b6e8fbd349a10800000000000000
+      internalID: 1915223634476736915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_83
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 628
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094ddc9836bcdb80800000000000000
+      internalID: -8368613653295052532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_84
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 638
+        width: 157
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f744410519a9580800000000000000
+      internalID: -8819577147128250525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_85
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 647
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf75ae5ba877bf10800000000000000
+      internalID: 2285428013336461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_86
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 643
+        width: 202
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c962b1d7704d3de0800000000000000
+      internalID: -1351853429777864249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_87
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 628
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5e38e8489ab0900800000000000000
+      internalID: 651800957876954558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_88
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 632
+        width: 223
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4baaac4f10f1e0800000000000000
+      internalID: -2166197006623879297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_89
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 643
+        width: 170
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2064514e8b2eac0800000000000000
+      internalID: -3827293443562536231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_90
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 632
+        width: 176
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ddf66db9746620800000000000000
+      internalID: 2766469925496018911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_91
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 624
+        width: 193
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca6d929fc5273b0800000000000000
+      internalID: -5516244368356889418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_92
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 626
+        width: 193
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9fe7595bc33d910800000000000000
+      internalID: 1860897821629020627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_93
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 623
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1dbe9c32deaf70800000000000000
+      internalID: 9200522246567566882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_94
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 626
+        width: 195
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163aa85e2aee5550800000000000000
+      internalID: 6151611625811621406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_95
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 632
+        width: 188
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02629084c8440daa0800000000000000
+      internalID: -6138330922811316704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 197
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3668e13a7e9bab790800000000000000
+      internalID: -7513488623788980637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_97
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 203
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f632bc0416a8f0800000000000000
+      internalID: -529713861407344664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_98
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 347
+        width: 215
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc541c74851b07250800000000000000
+      internalID: 5940442901220771276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 345
+        width: 191
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ddafe5b948ea300800000000000000
+      internalID: 265295230909734242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_100
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 354
+        width: 155
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00064d6b395de490800000000000000
+      internalID: -7715412474844545012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_101
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 362
+        width: 152
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9085fa8384ebca0800000000000000
+      internalID: -5999278245313771028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_102
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 354
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a606e10a2362f20800000000000000
+      internalID: 3397458632183409192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_103
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 347
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a353ce4af8f12320800000000000000
+      internalID: 2531578219505865639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_104
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 349
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18021bcf284f59d0800000000000000
+      internalID: -2783426674584057830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_105
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 360
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1894fb1c66ba70800000000000000
+      internalID: 8842373785712074157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_106
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 351
+        width: 176
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88efe2257c965d4d0800000000000000
+      internalID: -3110463662831239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_107
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 343
+        width: 193
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1a68ac7d8a4a110800000000000000
+      internalID: 1271326639594578413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_108
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 347
+        width: 193
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d754c754d992e0800000000000000
+      internalID: -2118428676279773213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_109
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 343
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280829c6b9bdab460800000000000000
+      internalID: 7258355210048929922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_110
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 351
+        width: 191
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ac7bc0cfe1f960800000000000000
+      internalID: 7634146454696404321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Red Dice Rolls_111
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 353
+        width: 188
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153b024f97bd9ec0800000000000000
+      internalID: -3558486235917109993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e913037594503e46b79378c88a779cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Red Dice Rolls_0: 927780937661308337
+      Glossy Red Dice Rolls_1: -5052555175492010407
+      Glossy Red Dice Rolls_10: 3559230600235038224
+      Glossy Red Dice Rolls_100: -7715412474844545012
+      Glossy Red Dice Rolls_101: -5999278245313771028
+      Glossy Red Dice Rolls_102: 3397458632183409192
+      Glossy Red Dice Rolls_103: 2531578219505865639
+      Glossy Red Dice Rolls_104: -2783426674584057830
+      Glossy Red Dice Rolls_105: 8842373785712074157
+      Glossy Red Dice Rolls_106: -3110463662831239544
+      Glossy Red Dice Rolls_107: 1271326639594578413
+      Glossy Red Dice Rolls_108: -2118428676279773213
+      Glossy Red Dice Rolls_109: 7258355210048929922
+      Glossy Red Dice Rolls_11: -8205174027996157230
+      Glossy Red Dice Rolls_110: 7634146454696404321
+      Glossy Red Dice Rolls_111: -3558486235917109993
+      Glossy Red Dice Rolls_12: -2631502631811229489
+      Glossy Red Dice Rolls_13: 6844976846308513876
+      Glossy Red Dice Rolls_14: -1212465546429612590
+      Glossy Red Dice Rolls_15: -331182195418793994
+      Glossy Red Dice Rolls_16: -5966567557757853445
+      Glossy Red Dice Rolls_17: 3128658979205009053
+      Glossy Red Dice Rolls_18: 795914811048632398
+      Glossy Red Dice Rolls_19: 7990188540745405516
+      Glossy Red Dice Rolls_2: 6243894076710234175
+      Glossy Red Dice Rolls_20: -5782350315499888786
+      Glossy Red Dice Rolls_21: 5019674986371283152
+      Glossy Red Dice Rolls_22: -9192398594984052833
+      Glossy Red Dice Rolls_23: 70818337663616896
+      Glossy Red Dice Rolls_24: 1482591213010135914
+      Glossy Red Dice Rolls_25: 5664013378844474332
+      Glossy Red Dice Rolls_26: 417330923782390780
+      Glossy Red Dice Rolls_27: -1973010448823380633
+      Glossy Red Dice Rolls_28: -5585060461618001260
+      Glossy Red Dice Rolls_29: -984903792222404417
+      Glossy Red Dice Rolls_3: -1199753117449759641
+      Glossy Red Dice Rolls_30: 527750434462608849
+      Glossy Red Dice Rolls_31: -7510677358177541743
+      Glossy Red Dice Rolls_32: 3973087859666594762
+      Glossy Red Dice Rolls_33: 636471188987853807
+      Glossy Red Dice Rolls_34: 4864950477488693551
+      Glossy Red Dice Rolls_35: -6495109261744242438
+      Glossy Red Dice Rolls_36: -3798599782641115410
+      Glossy Red Dice Rolls_37: 1170643064254483821
+      Glossy Red Dice Rolls_38: -9142245643048955449
+      Glossy Red Dice Rolls_39: -8460722397384240632
+      Glossy Red Dice Rolls_4: -8980635973632565900
+      Glossy Red Dice Rolls_40: 5187071756803452374
+      Glossy Red Dice Rolls_41: -2059141849935753348
+      Glossy Red Dice Rolls_42: 7560060397173107736
+      Glossy Red Dice Rolls_43: 5395288315729043594
+      Glossy Red Dice Rolls_44: 4044796471933903862
+      Glossy Red Dice Rolls_45: -3332002624357562897
+      Glossy Red Dice Rolls_46: -942886540874791086
+      Glossy Red Dice Rolls_47: 5306359376272156446
+      Glossy Red Dice Rolls_48: 5524916886377634657
+      Glossy Red Dice Rolls_49: 3320077424317715095
+      Glossy Red Dice Rolls_5: 7926857085782140880
+      Glossy Red Dice Rolls_50: 1507083772268471360
+      Glossy Red Dice Rolls_51: 2183277069986488552
+      Glossy Red Dice Rolls_52: 2426394113922994137
+      Glossy Red Dice Rolls_53: 474399397537348509
+      Glossy Red Dice Rolls_54: -224175577122287224
+      Glossy Red Dice Rolls_55: 5185974112674851759
+      Glossy Red Dice Rolls_56: 6566585167676480913
+      Glossy Red Dice Rolls_57: 2622905460368040790
+      Glossy Red Dice Rolls_58: -2914534039764352878
+      Glossy Red Dice Rolls_59: -5963056815134938411
+      Glossy Red Dice Rolls_6: -3726029759569684143
+      Glossy Red Dice Rolls_60: -5947544880770652450
+      Glossy Red Dice Rolls_61: -2428419222996569084
+      Glossy Red Dice Rolls_62: -6649404973000339398
+      Glossy Red Dice Rolls_63: -327983091478202904
+      Glossy Red Dice Rolls_64: 4001468687654695223
+      Glossy Red Dice Rolls_65: 2507259215981710943
+      Glossy Red Dice Rolls_66: 5015237634623235858
+      Glossy Red Dice Rolls_67: 3999964309963866412
+      Glossy Red Dice Rolls_68: 4849391074435873028
+      Glossy Red Dice Rolls_69: -6015252902061432076
+      Glossy Red Dice Rolls_7: 746768655058240480
+      Glossy Red Dice Rolls_70: -6246870446822530451
+      Glossy Red Dice Rolls_71: -2027510404138565979
+      Glossy Red Dice Rolls_72: 6843198014694100761
+      Glossy Red Dice Rolls_73: 1849784155938401621
+      Glossy Red Dice Rolls_74: 1675927382380447492
+      Glossy Red Dice Rolls_75: 6301041569773807013
+      Glossy Red Dice Rolls_76: 3470239627060856533
+      Glossy Red Dice Rolls_77: -3884223183852434354
+      Glossy Red Dice Rolls_78: 5415434870638149189
+      Glossy Red Dice Rolls_79: -473547457804362255
+      Glossy Red Dice Rolls_8: 5768318932419693754
+      Glossy Red Dice Rolls_80: 6347023624447651653
+      Glossy Red Dice Rolls_81: -5417705354166324753
+      Glossy Red Dice Rolls_82: 1915223634476736915
+      Glossy Red Dice Rolls_83: -8368613653295052532
+      Glossy Red Dice Rolls_84: -8819577147128250525
+      Glossy Red Dice Rolls_85: 2285428013336461242
+      Glossy Red Dice Rolls_86: -1351853429777864249
+      Glossy Red Dice Rolls_87: 651800957876954558
+      Glossy Red Dice Rolls_88: -2166197006623879297
+      Glossy Red Dice Rolls_89: -3827293443562536231
+      Glossy Red Dice Rolls_9: -3061283186085864698
+      Glossy Red Dice Rolls_90: 2766469925496018911
+      Glossy Red Dice Rolls_91: -5516244368356889418
+      Glossy Red Dice Rolls_92: 1860897821629020627
+      Glossy Red Dice Rolls_93: 9200522246567566882
+      Glossy Red Dice Rolls_94: 6151611625811621406
+      Glossy Red Dice Rolls_95: -6138330922811316704
+      Glossy Red Dice Rolls_96: -7513488623788980637
+      Glossy Red Dice Rolls_97: -529713861407344664
+      Glossy Red Dice Rolls_98: 5940442901220771276
+      Glossy Red Dice Rolls_99: 265295230909734242
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

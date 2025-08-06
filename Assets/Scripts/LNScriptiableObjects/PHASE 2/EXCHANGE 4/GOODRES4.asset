@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8a17f1cae892f42bdac180ebb34c70, type: 3}
+  m_Name: GOODRES4
+  m_EditorClassIdentifier: 
+  dialogueText: "\"Then let their stories come out here, in full, without legal leashes.
+    Let\u2019s see how committed you really are.\""
+  name: Lucas
+  choices: []
+  nextDefaultNode: {fileID: 11400000, guid: 7b4bb404e4c3e0a4182fd70f637f9281, type: 2}
+  animatedSprites:
+  - {fileID: 1434359708314350752, guid: 021ef64cd9df20242ab7f8a56afe229a, type: 3}
+  isThisJudgeDialogue: 0
+  isReactionDialogue: 0
+  animationSpeed: 0.7

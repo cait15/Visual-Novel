@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8a17f1cae892f42bdac180ebb34c70, type: 3}
+  m_Name: MCLine4
+  m_EditorClassIdentifier: 
+  dialogueText: "\"I won\u2019t pretend silence is acceptable. But the NDA policy
+    was implemented to protect reputations, on both sides, and avoid media trials
+    that often distort facts.\""
+  name: Firdaus
+  choices: []
+  nextDefaultNode: {fileID: 11400000, guid: a0315413ec73c8c4dbc860e419469765, type: 2}
+  animatedSprites:
+  - {fileID: 3144892558280527261, guid: 17c795f9f2cd5be4183c8ba54bf3aaee, type: 3}
+  - {fileID: 4819527905945331770, guid: c8ae39e8923f2194381cfa35a8af395c, type: 3}
+  isThisJudgeDialogue: 0
+  isReactionDialogue: 0
+  animationSpeed: 0.7

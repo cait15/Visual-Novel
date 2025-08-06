@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab663d778be4034d93ed1e8fa0addaa, type: 3}
+  m_Name: NEUTRALEX5
+  m_EditorClassIdentifier: 
+  choiceText: "\"We\u2019re not perfect. But we\u2019re moving. Let us prove ourselves,
+    with policy, not punishment.\""
+  damageToPlayer: 0
+  damageToEnemy: 0
+  nextNode: {fileID: 11400000, guid: 012c3e2f774e5fc4f9ee20fbd20bc010, type: 2}

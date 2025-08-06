@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c0fdddba8fb4647942a10b98c5e38a, type: 3}
+  m_Name: Tie CutSCene
+  m_EditorClassIdentifier: 
+  Script:
+  - {fileID: 11400000, guid: d378434de01e0d5498429bdef54a24be, type: 2}

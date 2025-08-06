@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab663d778be4034d93ed1e8fa0addaa, type: 3}
+  m_Name: BAD
+  m_EditorClassIdentifier: 
+  choiceText: "\"It\u2019s dangerous to conflate isolated incidents with systemic
+    rot. No large institution can operate flawlessly.\""
+  damageToPlayer: 15
+  damageToEnemy: 0
+  nextNode: {fileID: 11400000, guid: 09870bd0e57e9cd4f8a2656d25f24dea, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f8a17f1cae892f42bdac180ebb34c70, type: 3}
+  m_Name: MCLine3
+  m_EditorClassIdentifier: 
+  dialogueText: '"Since 2022, Oricore has launched an internal equity task force,
+    promoted inclusive hiring policies, and increased oversight of executive conduct.
+    These are not gestures, they are concrete steps toward meaningful change."'
+  name: Firdaus
+  choices: []
+  nextDefaultNode: {fileID: 11400000, guid: 382949f1adfab0c44a0cbc54d0c96aeb, type: 2}
+  animatedSprites:
+  - {fileID: -6339657236661984898, guid: 1b5867c4790acc04da811ecf66e36b29, type: 3}
+  - {fileID: 1344811526118691956, guid: 848a8aa6f5efe484e9c3dcec80822b44, type: 3}
+  isThisJudgeDialogue: 0
+  isReactionDialogue: 0
+  animationSpeed: 0.7

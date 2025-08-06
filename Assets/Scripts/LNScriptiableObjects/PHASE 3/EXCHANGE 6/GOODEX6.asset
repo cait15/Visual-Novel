@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab663d778be4034d93ed1e8fa0addaa, type: 3}
+  m_Name: GOODEX6
+  m_EditorClassIdentifier: 
+  choiceText: "\"If there\u2019s one truth we must all accept, it\u2019s that silence
+    protects no one. We break it today,  not just with this case, but with the steps
+    that follow.\""
+  damageToPlayer: 0
+  damageToEnemy: 10
+  nextNode: {fileID: 11400000, guid: 9e41544d36d24454dbebdafcbf8b7e5d, type: 2}

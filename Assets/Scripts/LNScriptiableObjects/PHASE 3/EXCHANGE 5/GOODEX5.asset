@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab663d778be4034d93ed1e8fa0addaa, type: 3}
+  m_Name: GOODEX5
+  m_EditorClassIdentifier: 
+  choiceText: '"Then let that action begin here, in this court, with transparency,
+    responsibility, and a future where Oricore becomes the model it was always meant
+    to be."'
+  damageToPlayer: 0
+  damageToEnemy: 15
+  nextNode: {fileID: 11400000, guid: 1a6e5b15e7e04884bb7e57d4d87acbda, type: 2}

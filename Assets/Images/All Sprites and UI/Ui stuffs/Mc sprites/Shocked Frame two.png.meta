@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f396cf8152bee2d4a9a5b3a7528201d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4885682705889621461
+    second: Shocked Frame two_0
+  - first:
+      213: -3322632761610439521
+    second: Shocked Frame two_1
+  - first:
+      213: -1286615025551834614
+    second: Shocked Frame two_2
+  - first:
+      213: 7573343234395332799
+    second: Shocked Frame two_3
+  - first:
+      213: -6298895259157144238
+    second: Shocked Frame two_4
+  - first:
+      213: 441118979558113682
+    second: Shocked Frame two_5
+  - first:
+      213: 6041037648030851676
+    second: Shocked Frame two_6
+  - first:
+      213: 6779587140195622137
+    second: Shocked Frame two_7
+  - first:
+      213: -8675673485555978232
+    second: Shocked Frame two_8
+  - first:
+      213: 8101513875843841942
+    second: Shocked Frame two_9
+  - first:
+      213: -7790647010754897923
+    second: Shocked Frame two_10
+  - first:
+      213: 3340132129219617199
+    second: Shocked Frame two_11
+  - first:
+      213: -5930657280623556957
+    second: Shocked Frame two_12
+  - first:
+      213: 805309105356255214
+    second: Shocked Frame two_13
+  - first:
+      213: 6748542017678406709
+    second: Shocked Frame two_14
+  - first:
+      213: -6037893938428601966
+    second: Shocked Frame two_15
+  - first:
+      213: -2623607748566229021
+    second: Shocked Frame two_16
+  - first:
+      213: -576100992786978022
+    second: Shocked Frame two_17
+  - first:
+      213: 9036426810491822661
+    second: Shocked Frame two_18
+  - first:
+      213: -7598445896810858706
+    second: Shocked Frame two_19
+  - first:
+      213: -7951986615563517024
+    second: Shocked Frame two_20
+  - first:
+      213: 7992042082621413573
+    second: Shocked Frame two_21
+  - first:
+      213: 186938152852385346
+    second: Shocked Frame two_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shocked Frame two_0
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 6450
+        width: 124
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f1d9198e6dc340800000000000000
+      internalID: 4885682705889621461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_1
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 6487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94722d7b13a3e1d0800000000000000
+      internalID: -3322632761610439521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_2
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 6469
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028d477376052ee0800000000000000
+      internalID: -1286615025551834614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_3
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 6430
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ed30eb8be91960800000000000000
+      internalID: 7573343234395332799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_4
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 6404
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ddb808224d598a0800000000000000
+      internalID: -6298895259157144238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_5
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 6452
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918e30ff5b2f1600800000000000000
+      internalID: 441118979558113682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_6
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 5893
+        width: 598
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e3adebb316d350800000000000000
+      internalID: 6041037648030851676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_7
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 6408
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9a2f859ee51e50800000000000000
+      internalID: 6779587140195622137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_8
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 6422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800392a3ee0d99780800000000000000
+      internalID: -8675673485555978232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_9
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 6420
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff19842fb5e6070800000000000000
+      internalID: 8101513875843841942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_10
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 6410
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7de7102df02e390800000000000000
+      internalID: -7790647010754897923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_11
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 6363
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1210989788a5e20800000000000000
+      internalID: 3340132129219617199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_12
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 6406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a649df00a212bda0800000000000000
+      internalID: -5930657280623556957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_13
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 6388
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefa5275d580d2b00800000000000000
+      internalID: 805309105356255214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_14
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 6374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f483b533a7ad50800000000000000
+      internalID: 6748542017678406709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_15
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 6322
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999a700477153ca0800000000000000
+      internalID: -6037893938428601966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_16
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 6378
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5fb437a2179bd0800000000000000
+      internalID: -2623607748566229021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_17
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 6339
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bae2a03374108f0800000000000000
+      internalID: -576100992786978022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_18
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 5074
+        width: 153
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5426e2e9e46d76d70800000000000000
+      internalID: 9036426810491822661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_19
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 5386
+        width: 172
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27709317b5ec8690800000000000000
+      internalID: -7598445896810858706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_20
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 5132
+        width: 219
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a30da8fd4ed4a190800000000000000
+      internalID: -7951986615563517024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_21
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3840
+        width: 134
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c85f943eef69ee60800000000000000
+      internalID: 7992042082621413573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shocked Frame two_22
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2896
+        width: 2121
+        height: 2888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eebb37243289200800000000000000
+      internalID: 186938152852385346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16fe4aacd05712b4e88504d31dab4931
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shocked Frame two_0: 4885682705889621461
+      Shocked Frame two_1: -3322632761610439521
+      Shocked Frame two_10: -7790647010754897923
+      Shocked Frame two_11: 3340132129219617199
+      Shocked Frame two_12: -5930657280623556957
+      Shocked Frame two_13: 805309105356255214
+      Shocked Frame two_14: 6748542017678406709
+      Shocked Frame two_15: -6037893938428601966
+      Shocked Frame two_16: -2623607748566229021
+      Shocked Frame two_17: -576100992786978022
+      Shocked Frame two_18: 9036426810491822661
+      Shocked Frame two_19: -7598445896810858706
+      Shocked Frame two_2: -1286615025551834614
+      Shocked Frame two_20: -7951986615563517024
+      Shocked Frame two_21: 7992042082621413573
+      Shocked Frame two_22: 186938152852385346
+      Shocked Frame two_3: 7573343234395332799
+      Shocked Frame two_4: -6298895259157144238
+      Shocked Frame two_5: 441118979558113682
+      Shocked Frame two_6: 6041037648030851676
+      Shocked Frame two_7: 6779587140195622137
+      Shocked Frame two_8: -8675673485555978232
+      Shocked Frame two_9: 8101513875843841942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
